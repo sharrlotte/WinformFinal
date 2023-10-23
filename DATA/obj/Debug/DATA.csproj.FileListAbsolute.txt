@@ -1,0 +1,12 @@
+D:\C#\Final\DATA\bin\Debug\DATA.dll.config
+D:\C#\Final\DATA\bin\Debug\DATA.dll
+D:\C#\Final\DATA\bin\Debug\DATA.pdb
+D:\C#\Final\DATA\bin\Debug\EntityFramework.dll
+D:\C#\Final\DATA\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\Final\DATA\bin\Debug\EntityFramework.xml
+D:\C#\Final\DATA\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\Final\DATA\obj\Debug\DATA.csproj.AssemblyReference.cache
+D:\C#\Final\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache
+D:\C#\Final\DATA\obj\Debug\DATA.csproj.CopyComplete
+D:\C#\Final\DATA\obj\Debug\DATA.dll
+D:\C#\Final\DATA\obj\Debug\DATA.pdb

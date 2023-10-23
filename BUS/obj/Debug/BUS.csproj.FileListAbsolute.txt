@@ -1,0 +1,15 @@
+D:\C#\Final\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\C#\Final\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\C#\Final\BUS\bin\Debug\BUS.dll.config
+D:\C#\Final\BUS\bin\Debug\BUS.dll
+D:\C#\Final\BUS\bin\Debug\BUS.pdb
+D:\C#\Final\BUS\bin\Debug\DATA.dll
+D:\C#\Final\BUS\bin\Debug\EntityFramework.dll
+D:\C#\Final\BUS\bin\Debug\EntityFramework.SqlServer.dll
+D:\C#\Final\BUS\bin\Debug\DATA.pdb
+D:\C#\Final\BUS\bin\Debug\DATA.dll.config
+D:\C#\Final\BUS\bin\Debug\EntityFramework.xml
+D:\C#\Final\BUS\bin\Debug\EntityFramework.SqlServer.xml
+D:\C#\Final\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\C#\Final\BUS\obj\Debug\BUS.dll
+D:\C#\Final\BUS\obj\Debug\BUS.pdb
